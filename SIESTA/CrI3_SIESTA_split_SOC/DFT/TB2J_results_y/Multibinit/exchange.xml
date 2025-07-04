@@ -1,0 +1,1233 @@
+<?xml version="1.0" ?>
+<System_definition>
+	<unit_cell units="bohrradius">-1.13626e+01	6.56018e+00	0.00000e+00	
+-1.13626e+01	-6.56018e+00	0.00000e+00	
+0.00000e+00	0.00000e+00	2.45664e+01</unit_cell>
+	<atom mass="5.19961e+01" massunits="atomicmassunit" damping_factor="1.00000" gyroratio="1.00000e+00" index_spin="1">
+		<position units="bohrradius">-7.57505e+00	0.00000e+00	1.22832e+01</position>
+		<spinat>7.95057e-11	3.56885e+00	-6.77361e-06</spinat>
+	</atom>
+	<atom mass="5.19961e+01" massunits="atomicmassunit" damping_factor="1.00000" gyroratio="1.00000e+00" index_spin="2">
+		<position units="bohrradius">-1.51501e+01	0.00000e+00	1.22832e+01</position>
+		<spinat>-7.69240e-11	3.56884e+00	-6.77260e-06</spinat>
+	</atom>
+	<atom mass="1.26904e+02" massunits="atomicmassunit" damping_factor="1.00000" gyroratio="1.00000e+00" index_spin="0">
+		<position units="bohrradius">-1.52878e+01	-4.29397e+00	9.24328e+00</position>
+		<spinat>-1.52185e-03	-1.81046e-01	-8.40557e-04</spinat>
+	</atom>
+	<atom mass="1.26904e+02" massunits="atomicmassunit" damping_factor="1.00000" gyroratio="1.00000e+00" index_spin="0">
+		<position units="bohrradius">-3.92520e+00	-2.26622e+00	1.53232e+01</position>
+		<spinat>1.52185e-03	-1.81046e-01	-8.40557e-04</spinat>
+	</atom>
+	<atom mass="1.26904e+02" massunits="atomicmassunit" damping_factor="1.00000" gyroratio="1.00000e+00" index_spin="0">
+		<position units="bohrradius">-1.13626e+01	2.02775e+00	9.24328e+00</position>
+		<spinat>-8.22873e-08	-1.77935e-01	1.61530e-03</spinat>
+	</atom>
+	<atom mass="1.26904e+02" massunits="atomicmassunit" damping_factor="1.00000" gyroratio="1.00000e+00" index_spin="0">
+		<position units="bohrradius">-1.13626e+01	-2.02775e+00	1.53232e+01</position>
+		<spinat>8.21055e-08	-1.77935e-01	1.61530e-03</spinat>
+	</atom>
+	<atom mass="1.26904e+02" massunits="atomicmassunit" damping_factor="1.00000" gyroratio="1.00000e+00" index_spin="0">
+		<position units="bohrradius">-1.87999e+01	2.26622e+00	9.24328e+00</position>
+		<spinat>1.52199e-03	-1.81046e-01	-8.40293e-04</spinat>
+	</atom>
+	<atom mass="1.26904e+02" massunits="atomicmassunit" damping_factor="1.00000" gyroratio="1.00000e+00" index_spin="0">
+		<position units="bohrradius">-7.43737e+00	4.29397e+00	1.53232e+01</position>
+		<spinat>-1.52199e-03	-1.81046e-01	-8.40293e-04</spinat>
+	</atom>
+	<spin_exchange_list units="eV">
+		<nterms>98</nterms>
+		<spin_exchange_term>
+			<ijR>1 1 -2 -2 0</ijR>
+			<data>-1.41218e-06 	 -1.41218e-06 	 -1.41218e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -2 -2 0</ijR>
+			<data>3.39951e-07 	 3.39951e-07 	 3.39951e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -2 -2 0</ijR>
+			<data>-3.75884e-06 	 -3.75884e-06 	 -3.75884e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -2 -2 0</ijR>
+			<data>-1.41209e-06 	 -1.41209e-06 	 -1.41209e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -2 -1 0</ijR>
+			<data>-1.42276e-06 	 -1.42276e-06 	 -1.42276e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -2 -1 0</ijR>
+			<data>5.25972e-07 	 5.25972e-07 	 5.25972e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -2 -1 0</ijR>
+			<data>-6.60736e-06 	 -6.60736e-06 	 -6.60736e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -2 -1 0</ijR>
+			<data>-1.42266e-06 	 -1.42266e-06 	 -1.42266e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -2 0 0</ijR>
+			<data>-8.43576e-06 	 -8.43576e-06 	 -8.43576e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -2 0 0</ijR>
+			<data>2.81197e-05 	 2.81197e-05 	 2.81197e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -2 0 0</ijR>
+			<data>-4.39094e-06 	 -4.39094e-06 	 -4.39094e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -2 0 0</ijR>
+			<data>-8.43576e-06 	 -8.43576e-06 	 -8.43576e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -2 1 0</ijR>
+			<data>-3.44122e-05 	 -3.44122e-05 	 -3.44122e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -2 1 0</ijR>
+			<data>1.81010e-05 	 1.81010e-05 	 1.81010e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -2 1 0</ijR>
+			<data>6.95368e-07 	 6.95368e-07 	 6.95368e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -2 1 0</ijR>
+			<data>-3.44109e-05 	 -3.44109e-05 	 -3.44109e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -2 2 0</ijR>
+			<data>-8.01442e-06 	 -8.01442e-06 	 -8.01442e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -2 2 0</ijR>
+			<data>1.06212e-06 	 1.06212e-06 	 1.06212e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -2 2 0</ijR>
+			<data>1.06212e-06 	 1.06212e-06 	 1.06212e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -2 2 0</ijR>
+			<data>-8.01444e-06 	 -8.01444e-06 	 -8.01444e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -1 -2 0</ijR>
+			<data>-1.42276e-06 	 -1.42276e-06 	 -1.42276e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -1 -2 0</ijR>
+			<data>5.25973e-07 	 5.25973e-07 	 5.25973e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -1 -2 0</ijR>
+			<data>-6.60736e-06 	 -6.60736e-06 	 -6.60736e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -1 -2 0</ijR>
+			<data>-1.42266e-06 	 -1.42266e-06 	 -1.42266e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -1 -1 0</ijR>
+			<data>-3.24438e-05 	 -3.24438e-05 	 -3.24438e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -1 -1 0</ijR>
+			<data>1.10034e-04 	 1.10034e-04 	 1.10034e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -1 -1 0</ijR>
+			<data>-5.31777e-06 	 -5.31777e-06 	 -5.31777e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -1 -1 0</ijR>
+			<data>-3.24424e-05 	 -3.24424e-05 	 -3.24424e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -1 0 0</ijR>
+			<data>9.28292e-04 	 9.28292e-04 	 9.28292e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -1 0 0</ijR>
+			<data>2.24126e-03 	 2.24126e-03 	 2.24126e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -1 0 0</ijR>
+			<data>2.11685e-05 	 2.11685e-05 	 2.11685e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -1 0 0</ijR>
+			<data>9.28261e-04 	 9.28261e-04 	 9.28261e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -1 1 0</ijR>
+			<data>9.65574e-04 	 9.65574e-04 	 9.65574e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -1 1 0</ijR>
+			<data>8.84156e-05 	 8.84156e-05 	 8.84156e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -1 1 0</ijR>
+			<data>8.84156e-05 	 8.84156e-05 	 8.84156e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -1 1 0</ijR>
+			<data>9.65542e-04 	 9.65542e-04 	 9.65542e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 -1 2 0</ijR>
+			<data>-3.44122e-05 	 -3.44122e-05 	 -3.44122e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 -1 2 0</ijR>
+			<data>6.95368e-07 	 6.95368e-07 	 6.95368e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 -1 2 0</ijR>
+			<data>1.81010e-05 	 1.81010e-05 	 1.81010e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 -1 2 0</ijR>
+			<data>-3.44109e-05 	 -3.44109e-05 	 -3.44109e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 -2 0</ijR>
+			<data>-8.43576e-06 	 -8.43576e-06 	 -8.43576e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 0 -2 0</ijR>
+			<data>2.81197e-05 	 2.81197e-05 	 2.81197e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 0 -2 0</ijR>
+			<data>-4.39094e-06 	 -4.39094e-06 	 -4.39094e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 0 -2 0</ijR>
+			<data>-8.43576e-06 	 -8.43576e-06 	 -8.43576e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 -1 0</ijR>
+			<data>9.28292e-04 	 9.28292e-04 	 9.28292e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 0 -1 0</ijR>
+			<data>2.24126e-03 	 2.24126e-03 	 2.24126e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 0 -1 0</ijR>
+			<data>2.11685e-05 	 2.11685e-05 	 2.11685e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 0 -1 0</ijR>
+			<data>9.28261e-04 	 9.28261e-04 	 9.28261e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 0 0 0</ijR>
+			<data>2.57570e-03 	 2.57570e-03 	 2.57570e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 0 0 0</ijR>
+			<data>2.57570e-03 	 2.57570e-03 	 2.57570e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 1 0</ijR>
+			<data>9.28292e-04 	 9.28292e-04 	 9.28292e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 0 1 0</ijR>
+			<data>2.11685e-05 	 2.11685e-05 	 2.11685e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 0 1 0</ijR>
+			<data>2.24126e-03 	 2.24126e-03 	 2.24126e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 0 1 0</ijR>
+			<data>9.28261e-04 	 9.28261e-04 	 9.28261e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 0 2 0</ijR>
+			<data>-8.43576e-06 	 -8.43576e-06 	 -8.43576e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 0 2 0</ijR>
+			<data>-4.39094e-06 	 -4.39094e-06 	 -4.39094e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 0 2 0</ijR>
+			<data>2.81197e-05 	 2.81197e-05 	 2.81197e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 0 2 0</ijR>
+			<data>-8.43576e-06 	 -8.43576e-06 	 -8.43576e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 -2 0</ijR>
+			<data>-3.44122e-05 	 -3.44122e-05 	 -3.44122e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 1 -2 0</ijR>
+			<data>1.81010e-05 	 1.81010e-05 	 1.81010e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 1 -2 0</ijR>
+			<data>6.95368e-07 	 6.95368e-07 	 6.95368e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 1 -2 0</ijR>
+			<data>-3.44109e-05 	 -3.44109e-05 	 -3.44109e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 -1 0</ijR>
+			<data>9.65574e-04 	 9.65574e-04 	 9.65574e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 1 -1 0</ijR>
+			<data>8.84156e-05 	 8.84156e-05 	 8.84156e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 1 -1 0</ijR>
+			<data>8.84156e-05 	 8.84156e-05 	 8.84156e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 1 -1 0</ijR>
+			<data>9.65542e-04 	 9.65542e-04 	 9.65542e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 0 0</ijR>
+			<data>9.28292e-04 	 9.28292e-04 	 9.28292e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 1 0 0</ijR>
+			<data>2.11685e-05 	 2.11685e-05 	 2.11685e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 1 0 0</ijR>
+			<data>2.24126e-03 	 2.24126e-03 	 2.24126e-03</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 1 0 0</ijR>
+			<data>9.28261e-04 	 9.28261e-04 	 9.28261e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 1 0</ijR>
+			<data>-3.24438e-05 	 -3.24438e-05 	 -3.24438e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 1 1 0</ijR>
+			<data>-5.31777e-06 	 -5.31777e-06 	 -5.31777e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 1 1 0</ijR>
+			<data>1.10034e-04 	 1.10034e-04 	 1.10034e-04</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 1 1 0</ijR>
+			<data>-3.24424e-05 	 -3.24424e-05 	 -3.24424e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 1 2 0</ijR>
+			<data>-1.42276e-06 	 -1.42276e-06 	 -1.42276e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 1 2 0</ijR>
+			<data>-6.60736e-06 	 -6.60736e-06 	 -6.60736e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 1 2 0</ijR>
+			<data>5.25973e-07 	 5.25973e-07 	 5.25973e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 1 2 0</ijR>
+			<data>-1.42266e-06 	 -1.42266e-06 	 -1.42266e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 2 -2 0</ijR>
+			<data>-8.01442e-06 	 -8.01442e-06 	 -8.01442e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 2 -2 0</ijR>
+			<data>1.06212e-06 	 1.06212e-06 	 1.06212e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 2 -2 0</ijR>
+			<data>1.06212e-06 	 1.06212e-06 	 1.06212e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 2 -2 0</ijR>
+			<data>-8.01444e-06 	 -8.01444e-06 	 -8.01444e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 2 -1 0</ijR>
+			<data>-3.44122e-05 	 -3.44122e-05 	 -3.44122e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 2 -1 0</ijR>
+			<data>6.95368e-07 	 6.95368e-07 	 6.95368e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 2 -1 0</ijR>
+			<data>1.81010e-05 	 1.81010e-05 	 1.81010e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 2 -1 0</ijR>
+			<data>-3.44109e-05 	 -3.44109e-05 	 -3.44109e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 2 0 0</ijR>
+			<data>-8.43576e-06 	 -8.43576e-06 	 -8.43576e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 2 0 0</ijR>
+			<data>-4.39094e-06 	 -4.39094e-06 	 -4.39094e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 2 0 0</ijR>
+			<data>2.81197e-05 	 2.81197e-05 	 2.81197e-05</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 2 0 0</ijR>
+			<data>-8.43576e-06 	 -8.43576e-06 	 -8.43576e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 2 1 0</ijR>
+			<data>-1.42276e-06 	 -1.42276e-06 	 -1.42276e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 2 1 0</ijR>
+			<data>-6.60736e-06 	 -6.60736e-06 	 -6.60736e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 2 1 0</ijR>
+			<data>5.25972e-07 	 5.25972e-07 	 5.25972e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 2 1 0</ijR>
+			<data>-1.42266e-06 	 -1.42266e-06 	 -1.42266e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 1 2 2 0</ijR>
+			<data>-1.41218e-06 	 -1.41218e-06 	 -1.41218e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>1 2 2 2 0</ijR>
+			<data>-3.75884e-06 	 -3.75884e-06 	 -3.75884e-06</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 1 2 2 0</ijR>
+			<data>3.39951e-07 	 3.39951e-07 	 3.39951e-07</data>
+		</spin_exchange_term>
+		<spin_exchange_term>
+			<ijR>2 2 2 2 0</ijR>
+			<data>-1.41209e-06 	 -1.41209e-06 	 -1.41209e-06</data>
+		</spin_exchange_term>
+	</spin_exchange_list>
+	<spin_DMI_list units="eV">
+		<nterms>98</nterms>
+		<spin_DMI_term>
+			<ijR>1 1 -2 -2 0</ijR>
+			<data>1.36487e-07 	 -9.73547e-15 	 4.56956e-14</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -2 -2 0</ijR>
+			<data>7.15992e-13 	 7.69258e-16 	 1.66234e-14</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -2 -2 0</ijR>
+			<data>1.00750e-10 	 -3.42051e-14 	 6.78392e-14</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -2 -2 0</ijR>
+			<data>-1.36434e-07 	 2.98087e-14 	 -5.64161e-14</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 -2 -1 0</ijR>
+			<data>-8.37109e-08 	 3.84256e-08 	 -6.80659e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -2 -1 0</ijR>
+			<data>6.33088e-12 	 4.49661e-11 	 -1.18703e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -2 -1 0</ijR>
+			<data>1.79834e-11 	 3.04791e-11 	 -1.72141e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -2 -1 0</ijR>
+			<data>8.36872e-08 	 -3.84454e-08 	 6.80686e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 -2 0 0</ijR>
+			<data>-7.31156e-07 	 -2.41237e-06 	 3.08802e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -2 0 0</ijR>
+			<data>-5.24059e-10 	 -3.29905e-11 	 -2.58615e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -2 0 0</ijR>
+			<data>-5.51718e-11 	 3.18806e-11 	 1.14324e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -2 0 0</ijR>
+			<data>7.31219e-07 	 2.41222e-06 	 -3.08770e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 -2 1 0</ijR>
+			<data>-2.92100e-06 	 7.07307e-06 	 8.88145e-07</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -2 1 0</ijR>
+			<data>1.91325e-10 	 4.73406e-10 	 2.26446e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -2 1 0</ijR>
+			<data>-9.66573e-11 	 -3.07385e-11 	 -8.76569e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -2 1 0</ijR>
+			<data>2.92076e-06 	 -7.07221e-06 	 -8.87986e-07</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 -2 2 0</ijR>
+			<data>-7.48630e-14 	 -4.90936e-06 	 -3.33107e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -2 2 0</ijR>
+			<data>-1.09279e-10 	 1.01305e-11 	 1.10176e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -2 2 0</ijR>
+			<data>1.09294e-10 	 1.01257e-11 	 1.10270e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -2 2 0</ijR>
+			<data>1.82039e-13 	 4.90906e-06 	 3.33085e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 -1 -2 0</ijR>
+			<data>-8.37108e-08 	 -3.84255e-08 	 6.80659e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -1 -2 0</ijR>
+			<data>6.31459e-12 	 -4.50202e-11 	 1.18721e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -1 -2 0</ijR>
+			<data>1.80263e-11 	 -3.04545e-11 	 1.72119e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -1 -2 0</ijR>
+			<data>8.36872e-08 	 3.84454e-08 	 -6.80686e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 -1 -1 0</ijR>
+			<data>-8.04261e-06 	 -4.67974e-13 	 -1.61799e-12</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -1 -1 0</ijR>
+			<data>5.27892e-10 	 -6.91225e-13 	 -1.23517e-13</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -1 -1 0</ijR>
+			<data>-4.08528e-12 	 8.22552e-14 	 2.92303e-14</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -1 -1 0</ijR>
+			<data>8.04195e-06 	 1.01925e-12 	 1.12720e-12</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 -1 0 0</ijR>
+			<data>6.19161e-05 	 -5.30901e-05 	 -1.46974e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -1 0 0</ijR>
+			<data>3.29513e-09 	 -1.00834e-09 	 1.01020e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -1 0 0</ijR>
+			<data>-3.18028e-10 	 5.62011e-10 	 -5.44104e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -1 0 0</ijR>
+			<data>-6.19111e-05 	 5.30876e-05 	 1.46970e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 -1 1 0</ijR>
+			<data>6.79473e-12 	 -9.68254e-05 	 2.08900e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -1 1 0</ijR>
+			<data>-3.45731e-10 	 -5.50931e-10 	 -6.21150e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -1 1 0</ijR>
+			<data>3.44001e-10 	 -5.50480e-10 	 -6.13818e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -1 1 0</ijR>
+			<data>-8.18444e-12 	 9.68201e-05 	 -2.08881e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 -1 2 0</ijR>
+			<data>2.92100e-06 	 7.07307e-06 	 8.88143e-07</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 -1 2 0</ijR>
+			<data>9.67330e-11 	 -3.07204e-11 	 -8.78002e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 -1 2 0</ijR>
+			<data>-1.91106e-10 	 4.73517e-10 	 2.26810e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 -1 2 0</ijR>
+			<data>-2.92076e-06 	 -7.07221e-06 	 -8.87984e-07</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 0 -2 0</ijR>
+			<data>-7.31156e-07 	 2.41237e-06 	 -3.08802e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 0 -2 0</ijR>
+			<data>-5.24582e-10 	 3.31794e-11 	 2.57703e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 0 -2 0</ijR>
+			<data>-5.51724e-11 	 -3.18927e-11 	 -1.14179e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 0 -2 0</ijR>
+			<data>7.31219e-07 	 -2.41222e-06 	 3.08770e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 0 -1 0</ijR>
+			<data>6.19161e-05 	 5.30901e-05 	 1.46974e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 0 -1 0</ijR>
+			<data>3.31470e-09 	 1.03832e-09 	 -1.00953e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 0 -1 0</ijR>
+			<data>-3.18159e-10 	 -5.61765e-10 	 5.44286e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 0 -1 0</ijR>
+			<data>-6.19111e-05 	 -5.30876e-05 	 -1.46970e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 0 0 0</ijR>
+			<data>-6.32804e-09 	 -1.10896e-11 	 -1.54711e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 0 0 0</ijR>
+			<data>6.32804e-09 	 1.10896e-11 	 1.54711e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 0 1 0</ijR>
+			<data>-6.19161e-05 	 -5.30901e-05 	 -1.46974e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 0 1 0</ijR>
+			<data>3.18159e-10 	 5.61765e-10 	 -5.44286e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 0 1 0</ijR>
+			<data>-3.31470e-09 	 -1.03832e-09 	 1.00953e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 0 1 0</ijR>
+			<data>6.19111e-05 	 5.30876e-05 	 1.46970e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 0 2 0</ijR>
+			<data>7.31156e-07 	 -2.41237e-06 	 3.08802e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 0 2 0</ijR>
+			<data>5.51724e-11 	 3.18927e-11 	 1.14179e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 0 2 0</ijR>
+			<data>5.24582e-10 	 -3.31794e-11 	 -2.57703e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 0 2 0</ijR>
+			<data>-7.31219e-07 	 2.41222e-06 	 -3.08770e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 1 -2 0</ijR>
+			<data>-2.92100e-06 	 -7.07307e-06 	 -8.88143e-07</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 1 -2 0</ijR>
+			<data>1.91106e-10 	 -4.73517e-10 	 -2.26810e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 1 -2 0</ijR>
+			<data>-9.67330e-11 	 3.07204e-11 	 8.78002e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 1 -2 0</ijR>
+			<data>2.92076e-06 	 7.07221e-06 	 8.87984e-07</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 1 -1 0</ijR>
+			<data>-6.79473e-12 	 9.68254e-05 	 -2.08900e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 1 -1 0</ijR>
+			<data>-3.44001e-10 	 5.50480e-10 	 6.13818e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 1 -1 0</ijR>
+			<data>3.45731e-10 	 5.50931e-10 	 6.21150e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 1 -1 0</ijR>
+			<data>8.18444e-12 	 -9.68201e-05 	 2.08881e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 1 0 0</ijR>
+			<data>-6.19161e-05 	 5.30901e-05 	 1.46974e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 1 0 0</ijR>
+			<data>3.18028e-10 	 -5.62011e-10 	 5.44104e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 1 0 0</ijR>
+			<data>-3.29513e-09 	 1.00834e-09 	 -1.01020e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 1 0 0</ijR>
+			<data>6.19111e-05 	 -5.30876e-05 	 -1.46970e-05</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 1 1 0</ijR>
+			<data>8.04261e-06 	 4.67974e-13 	 1.61799e-12</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 1 1 0</ijR>
+			<data>4.08528e-12 	 -8.22552e-14 	 -2.92303e-14</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 1 1 0</ijR>
+			<data>-5.27892e-10 	 6.91225e-13 	 1.23517e-13</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 1 1 0</ijR>
+			<data>-8.04195e-06 	 -1.01925e-12 	 -1.12720e-12</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 1 2 0</ijR>
+			<data>8.37108e-08 	 3.84255e-08 	 -6.80659e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 1 2 0</ijR>
+			<data>-1.80263e-11 	 3.04545e-11 	 -1.72119e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 1 2 0</ijR>
+			<data>-6.31459e-12 	 4.50202e-11 	 -1.18721e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 1 2 0</ijR>
+			<data>-8.36872e-08 	 -3.84454e-08 	 6.80686e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 2 -2 0</ijR>
+			<data>7.48630e-14 	 4.90936e-06 	 3.33107e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 2 -2 0</ijR>
+			<data>-1.09294e-10 	 -1.01257e-11 	 -1.10270e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 2 -2 0</ijR>
+			<data>1.09279e-10 	 -1.01305e-11 	 -1.10176e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 2 -2 0</ijR>
+			<data>-1.82039e-13 	 -4.90906e-06 	 -3.33085e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 2 -1 0</ijR>
+			<data>2.92100e-06 	 -7.07307e-06 	 -8.88145e-07</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 2 -1 0</ijR>
+			<data>9.66573e-11 	 3.07385e-11 	 8.76569e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 2 -1 0</ijR>
+			<data>-1.91325e-10 	 -4.73406e-10 	 -2.26446e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 2 -1 0</ijR>
+			<data>-2.92076e-06 	 7.07221e-06 	 8.87986e-07</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 2 0 0</ijR>
+			<data>7.31156e-07 	 2.41237e-06 	 -3.08802e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 2 0 0</ijR>
+			<data>5.51718e-11 	 -3.18806e-11 	 -1.14324e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 2 0 0</ijR>
+			<data>5.24059e-10 	 3.29905e-11 	 2.58615e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 2 0 0</ijR>
+			<data>-7.31219e-07 	 -2.41222e-06 	 3.08770e-06</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 2 1 0</ijR>
+			<data>8.37109e-08 	 -3.84256e-08 	 6.80659e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 2 1 0</ijR>
+			<data>-1.79834e-11 	 -3.04791e-11 	 1.72141e-11</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 2 1 0</ijR>
+			<data>-6.33088e-12 	 -4.49661e-11 	 1.18703e-10</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 2 1 0</ijR>
+			<data>-8.36872e-08 	 3.84454e-08 	 -6.80686e-08</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 1 2 2 0</ijR>
+			<data>-1.36487e-07 	 9.73547e-15 	 -4.56956e-14</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>1 2 2 2 0</ijR>
+			<data>-1.00750e-10 	 3.42051e-14 	 -6.78392e-14</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 1 2 2 0</ijR>
+			<data>-7.15992e-13 	 -7.69265e-16 	 -1.66234e-14</data>
+		</spin_DMI_term>
+		<spin_DMI_term>
+			<ijR>2 2 2 2 0</ijR>
+			<data>1.36434e-07 	 -2.98087e-14 	 5.64161e-14</data>
+		</spin_DMI_term>
+	</spin_DMI_list>
+	<spin_bilinear_list units="eV">
+		<nterms>98</nterms>
+		<spin_bilinear_term>
+			<ijR>1 1 -2 -2 0</ijR>
+			<data>-5.19994e-07	-3.67041e-14	4.64166e-15	-3.67041e-14	2.47751e-07	4.51138e-08	4.64166e-15	4.51138e-08	-5.84375e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -2 -2 0</ijR>
+			<data>3.84422e-07	-1.33027e-13	2.57564e-16	-1.33027e-13	-1.61104e-06	-2.69662e-08	2.57564e-16	-2.69662e-08	-3.41615e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -2 -2 0</ijR>
+			<data>-1.12135e-06	3.00848e-14	-2.31735e-15	3.00848e-14	-2.34117e-06	5.50104e-07	-2.31735e-15	5.50104e-07	-1.01645e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -2 -2 0</ijR>
+			<data>-5.19934e-07	-1.88336e-14	-1.02748e-14	-1.88336e-14	2.47359e-07	4.50262e-08	-1.02748e-14	4.50262e-08	-5.84357e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 -2 -1 0</ijR>
+			<data>-5.07104e-07	3.07832e-07	1.93435e-08	3.07832e-07	6.16756e-07	-5.26302e-08	1.93435e-08	-5.26302e-08	-6.62126e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -2 -1 0</ijR>
+			<data>-2.63580e-06	-2.03783e-06	-9.10563e-07	-2.03783e-06	-6.78677e-06	5.06873e-09	-9.10563e-07	5.06873e-09	-6.23573e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -2 -1 0</ijR>
+			<data>-1.27754e-06	-4.61293e-07	-8.87119e-07	-4.61293e-07	-1.77305e-05	4.34222e-07	-8.87119e-07	4.34222e-07	-1.57362e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -2 -1 0</ijR>
+			<data>-5.07064e-07	3.07820e-07	1.93339e-08	3.07820e-07	6.16352e-07	-5.25902e-08	1.93339e-08	-5.25902e-08	-6.62119e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 -2 0 0</ijR>
+			<data>-2.81361e-06	5.89996e-07	-1.41882e-09	5.89996e-07	-6.37613e-06	5.84724e-07	-1.41882e-09	5.84724e-07	-1.29731e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -2 0 0</ijR>
+			<data>-1.24225e-05	1.36183e-05	-6.73761e-07	1.36183e-05	-1.70535e-04	6.59729e-06	-6.73761e-07	6.59729e-06	-1.03470e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -2 0 0</ijR>
+			<data>-1.56567e-06	3.66793e-07	1.56574e-07	3.66793e-07	-1.00735e-06	-3.11457e-07	1.56574e-07	-3.11457e-07	-4.28021e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -2 0 0</ijR>
+			<data>-2.81340e-06	5.89967e-07	-1.39058e-09	5.89967e-07	-6.37555e-06	5.84679e-07	-1.39058e-09	5.84679e-07	-1.29724e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 -2 1 0</ijR>
+			<data>-6.60718e-06	1.16301e-06	-3.17711e-06	1.16301e-06	-1.04185e-04	2.22628e-06	-3.17711e-06	2.22628e-06	-6.22119e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -2 1 0</ijR>
+			<data>-8.97196e-06	-1.84560e-05	5.70302e-07	-1.84560e-05	-1.90643e-04	6.29886e-06	5.70302e-07	6.29886e-06	-7.61449e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -2 1 0</ijR>
+			<data>-3.20727e-06	1.81743e-06	4.90018e-07	1.81743e-06	-7.43834e-06	8.24764e-07	4.90018e-07	8.24764e-07	-5.18635e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -2 1 0</ijR>
+			<data>-6.60680e-06	1.16284e-06	-3.17727e-06	1.16284e-06	-1.04186e-04	2.22601e-06	-3.17727e-06	2.22601e-06	-6.22083e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 -2 2 0</ijR>
+			<data>-2.50522e-06	1.21612e-14	-4.46843e-15	1.21612e-14	-1.04081e-05	-6.72206e-07	-4.46843e-15	-6.72206e-07	-1.71393e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -2 2 0</ijR>
+			<data>-3.33268e-06	1.38236e-06	-1.34987e-06	1.38236e-06	-6.22037e-06	-4.73707e-07	-1.34987e-06	-4.73707e-07	-7.55695e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -2 2 0</ijR>
+			<data>-3.33268e-06	-1.38236e-06	1.34987e-06	-1.38236e-06	-6.22038e-06	-4.73707e-07	1.34987e-06	-4.73707e-07	-7.55695e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -2 2 0</ijR>
+			<data>-2.50504e-06	1.44939e-13	9.22700e-15	1.44939e-13	-1.04073e-05	-6.72144e-07	9.22700e-15	-6.72144e-07	-1.71387e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 -1 -2 0</ijR>
+			<data>-5.07104e-07	-3.07832e-07	-1.93435e-08	-3.07832e-07	6.16756e-07	-5.26302e-08	-1.93435e-08	-5.26302e-08	-6.62126e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -1 -2 0</ijR>
+			<data>-2.63580e-06	2.03783e-06	9.10563e-07	2.03783e-06	-6.78677e-06	5.06865e-09	9.10563e-07	5.06865e-09	-6.23573e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -1 -2 0</ijR>
+			<data>-1.27754e-06	4.61293e-07	8.87119e-07	4.61293e-07	-1.77305e-05	4.34222e-07	8.87119e-07	4.34222e-07	-1.57362e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -1 -2 0</ijR>
+			<data>-5.07064e-07	-3.07820e-07	-1.93339e-08	-3.07820e-07	6.16352e-07	-5.25902e-08	-1.93339e-08	-5.25902e-08	-6.62119e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 -1 -1 0</ijR>
+			<data>-5.68854e-06	-8.39109e-14	-1.83950e-13	-8.39109e-14	-9.67174e-05	-4.15377e-06	-1.83950e-13	-4.15377e-06	-5.58337e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -1 -1 0</ijR>
+			<data>-4.33448e-05	-1.92470e-13	-9.75673e-13	-1.92470e-13	-3.89915e-04	1.24412e-05	-9.75673e-13	1.24412e-05	-6.72897e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -1 -1 0</ijR>
+			<data>-1.44738e-06	4.00385e-14	6.61509e-14	4.00385e-14	-1.83077e-05	-1.36353e-06	6.61509e-14	-1.36353e-06	-2.33415e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -1 -1 0</ijR>
+			<data>-5.68816e-06	8.22827e-14	-1.22890e-13	8.22827e-14	-9.67186e-05	-4.15325e-06	-1.22890e-13	-4.15325e-06	-5.58312e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 -1 0 0</ijR>
+			<data>-1.20393e-04	5.39842e-05	-5.01100e-05	5.39842e-05	-2.53813e-03	-7.59093e-05	-5.01100e-05	-7.59093e-05	-1.38783e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -1 0 0</ijR>
+			<data>-7.64543e-04	-4.54649e-04	4.43079e-04	-4.54649e-04	-9.40153e-03	1.31779e-04	4.43079e-04	1.31779e-04	-3.60537e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -1 0 0</ijR>
+			<data>-6.94025e-06	-7.24704e-06	3.61861e-07	-7.24704e-06	-1.84974e-04	-1.10289e-05	3.61861e-07	-1.10289e-05	-9.81254e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -1 0 0</ijR>
+			<data>-1.20386e-04	5.39815e-05	-5.01077e-05	5.39815e-05	-2.53809e-03	-7.59029e-05	-5.01077e-05	-7.59029e-05	-1.38775e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 -1 1 0</ijR>
+			<data>-4.53995e-05	-2.14439e-12	1.86848e-13	-2.14439e-12	-2.64055e-03	1.42586e-04	1.86848e-13	1.42586e-04	-1.73416e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -1 1 0</ijR>
+			<data>-7.37659e-05	3.09475e-05	-2.08133e-05	3.09475e-05	-3.85325e-04	-9.29023e-06	-2.08133e-05	-9.29023e-06	-5.15143e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -1 1 0</ijR>
+			<data>-7.37659e-05	-3.09475e-05	2.08133e-05	-3.09475e-05	-3.85325e-04	-9.29022e-06	2.08133e-05	-9.29022e-06	-5.15143e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -1 1 0</ijR>
+			<data>-4.53969e-05	7.49580e-12	-2.45884e-12	7.49580e-12	-2.64051e-03	1.42573e-04	-2.45884e-12	1.42573e-04	-1.73406e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 -1 2 0</ijR>
+			<data>-6.60718e-06	-1.16301e-06	3.17711e-06	-1.16301e-06	-1.04185e-04	2.22628e-06	3.17711e-06	2.22628e-06	-6.22119e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 -1 2 0</ijR>
+			<data>-3.20727e-06	-1.81743e-06	-4.90018e-07	-1.81743e-06	-7.43834e-06	8.24764e-07	-4.90018e-07	8.24764e-07	-5.18635e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 -1 2 0</ijR>
+			<data>-8.97196e-06	1.84560e-05	-5.70302e-07	1.84560e-05	-1.90643e-04	6.29886e-06	-5.70302e-07	6.29886e-06	-7.61449e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 -1 2 0</ijR>
+			<data>-6.60680e-06	-1.16284e-06	3.17727e-06	-1.16284e-06	-1.04186e-04	2.22601e-06	3.17727e-06	2.22601e-06	-6.22083e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 0 -2 0</ijR>
+			<data>-2.81361e-06	-5.89996e-07	1.41877e-09	-5.89996e-07	-6.37613e-06	5.84724e-07	1.41877e-09	5.84724e-07	-1.29731e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 0 -2 0</ijR>
+			<data>-1.24225e-05	-1.36183e-05	6.73760e-07	-1.36183e-05	-1.70535e-04	6.59729e-06	6.73760e-07	6.59729e-06	-1.03470e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 0 -2 0</ijR>
+			<data>-1.56567e-06	-3.66792e-07	-1.56574e-07	-3.66792e-07	-1.00735e-06	-3.11457e-07	-1.56574e-07	-3.11457e-07	-4.28021e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 0 -2 0</ijR>
+			<data>-2.81340e-06	-5.89967e-07	1.39055e-09	-5.89967e-07	-6.37555e-06	5.84679e-07	1.39055e-09	5.84679e-07	-1.29724e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 0 -1 0</ijR>
+			<data>-1.20393e-04	-5.39841e-05	5.01100e-05	-5.39841e-05	-2.53813e-03	-7.59093e-05	5.01100e-05	-7.59093e-05	-1.38783e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 0 -1 0</ijR>
+			<data>-7.64543e-04	4.54649e-04	-4.43079e-04	4.54649e-04	-9.40153e-03	1.31779e-04	-4.43079e-04	1.31779e-04	-3.60537e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 0 -1 0</ijR>
+			<data>-6.94025e-06	7.24704e-06	-3.61861e-07	7.24704e-06	-1.84974e-04	-1.10289e-05	-3.61861e-07	-1.10289e-05	-9.81254e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 0 -1 0</ijR>
+			<data>-1.20386e-04	-5.39815e-05	5.01077e-05	-5.39815e-05	-2.53809e-03	-7.59029e-05	5.01077e-05	-7.59029e-05	-1.38775e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 0 0 0</ijR>
+			<data>-2.96785e-04	3.00815e-11	5.31802e-12	3.00815e-11	-9.51901e-03	-2.55065e-04	5.31802e-12	-2.55065e-04	-7.00547e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 0 0 0</ijR>
+			<data>-2.96785e-04	3.00815e-11	5.31802e-12	3.00815e-11	-9.51901e-03	-2.55065e-04	5.31802e-12	-2.55065e-04	-7.00547e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 0 1 0</ijR>
+			<data>-1.20393e-04	-5.39841e-05	5.01100e-05	-5.39841e-05	-2.53813e-03	-7.59093e-05	5.01100e-05	-7.59093e-05	-1.38783e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 0 1 0</ijR>
+			<data>-6.94025e-06	7.24704e-06	-3.61861e-07	7.24704e-06	-1.84974e-04	-1.10289e-05	-3.61861e-07	-1.10289e-05	-9.81254e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 0 1 0</ijR>
+			<data>-7.64543e-04	4.54649e-04	-4.43079e-04	4.54649e-04	-9.40153e-03	1.31779e-04	-4.43079e-04	1.31779e-04	-3.60537e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 0 1 0</ijR>
+			<data>-1.20386e-04	-5.39815e-05	5.01077e-05	-5.39815e-05	-2.53809e-03	-7.59029e-05	5.01077e-05	-7.59029e-05	-1.38775e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 0 2 0</ijR>
+			<data>-2.81361e-06	-5.89996e-07	1.41877e-09	-5.89996e-07	-6.37613e-06	5.84724e-07	1.41877e-09	5.84724e-07	-1.29731e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 0 2 0</ijR>
+			<data>-1.56567e-06	-3.66792e-07	-1.56574e-07	-3.66792e-07	-1.00735e-06	-3.11457e-07	-1.56574e-07	-3.11457e-07	-4.28021e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 0 2 0</ijR>
+			<data>-1.24225e-05	-1.36183e-05	6.73760e-07	-1.36183e-05	-1.70535e-04	6.59729e-06	6.73760e-07	6.59729e-06	-1.03470e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 0 2 0</ijR>
+			<data>-2.81340e-06	-5.89967e-07	1.39055e-09	-5.89967e-07	-6.37555e-06	5.84679e-07	1.39055e-09	5.84679e-07	-1.29724e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 1 -2 0</ijR>
+			<data>-6.60718e-06	-1.16301e-06	3.17711e-06	-1.16301e-06	-1.04185e-04	2.22628e-06	3.17711e-06	2.22628e-06	-6.22119e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 1 -2 0</ijR>
+			<data>-8.97196e-06	1.84560e-05	-5.70302e-07	1.84560e-05	-1.90643e-04	6.29886e-06	-5.70302e-07	6.29886e-06	-7.61449e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 1 -2 0</ijR>
+			<data>-3.20727e-06	-1.81743e-06	-4.90018e-07	-1.81743e-06	-7.43834e-06	8.24764e-07	-4.90018e-07	8.24764e-07	-5.18635e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 1 -2 0</ijR>
+			<data>-6.60680e-06	-1.16284e-06	3.17727e-06	-1.16284e-06	-1.04186e-04	2.22601e-06	3.17727e-06	2.22601e-06	-6.22083e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 1 -1 0</ijR>
+			<data>-4.53995e-05	-2.14439e-12	1.86848e-13	-2.14439e-12	-2.64055e-03	1.42586e-04	1.86848e-13	1.42586e-04	-1.73416e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 1 -1 0</ijR>
+			<data>-7.37659e-05	-3.09475e-05	2.08133e-05	-3.09475e-05	-3.85325e-04	-9.29022e-06	2.08133e-05	-9.29022e-06	-5.15143e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 1 -1 0</ijR>
+			<data>-7.37659e-05	3.09475e-05	-2.08133e-05	3.09475e-05	-3.85325e-04	-9.29023e-06	-2.08133e-05	-9.29023e-06	-5.15143e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 1 -1 0</ijR>
+			<data>-4.53969e-05	7.49580e-12	-2.45884e-12	7.49580e-12	-2.64051e-03	1.42573e-04	-2.45884e-12	1.42573e-04	-1.73406e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 1 0 0</ijR>
+			<data>-1.20393e-04	5.39842e-05	-5.01100e-05	5.39842e-05	-2.53813e-03	-7.59093e-05	-5.01100e-05	-7.59093e-05	-1.38783e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 1 0 0</ijR>
+			<data>-6.94025e-06	-7.24704e-06	3.61861e-07	-7.24704e-06	-1.84974e-04	-1.10289e-05	3.61861e-07	-1.10289e-05	-9.81254e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 1 0 0</ijR>
+			<data>-7.64543e-04	-4.54649e-04	4.43079e-04	-4.54649e-04	-9.40153e-03	1.31779e-04	4.43079e-04	1.31779e-04	-3.60537e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 1 0 0</ijR>
+			<data>-1.20386e-04	5.39815e-05	-5.01077e-05	5.39815e-05	-2.53809e-03	-7.59029e-05	-5.01077e-05	-7.59029e-05	-1.38775e-04</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 1 1 0</ijR>
+			<data>-5.68854e-06	-8.39109e-14	-1.83950e-13	-8.39109e-14	-9.67174e-05	-4.15377e-06	-1.83950e-13	-4.15377e-06	-5.58337e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 1 1 0</ijR>
+			<data>-1.44738e-06	4.00385e-14	6.61509e-14	4.00385e-14	-1.83077e-05	-1.36353e-06	6.61509e-14	-1.36353e-06	-2.33415e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 1 1 0</ijR>
+			<data>-4.33448e-05	-1.92470e-13	-9.75673e-13	-1.92470e-13	-3.89915e-04	1.24412e-05	-9.75673e-13	1.24412e-05	-6.72897e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 1 1 0</ijR>
+			<data>-5.68816e-06	8.22827e-14	-1.22890e-13	8.22827e-14	-9.67186e-05	-4.15325e-06	-1.22890e-13	-4.15325e-06	-5.58312e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 1 2 0</ijR>
+			<data>-5.07104e-07	-3.07832e-07	-1.93435e-08	-3.07832e-07	6.16756e-07	-5.26302e-08	-1.93435e-08	-5.26302e-08	-6.62126e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 1 2 0</ijR>
+			<data>-1.27754e-06	4.61293e-07	8.87119e-07	4.61293e-07	-1.77305e-05	4.34222e-07	8.87119e-07	4.34222e-07	-1.57362e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 1 2 0</ijR>
+			<data>-2.63580e-06	2.03783e-06	9.10563e-07	2.03783e-06	-6.78677e-06	5.06865e-09	9.10563e-07	5.06865e-09	-6.23573e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 1 2 0</ijR>
+			<data>-5.07064e-07	-3.07820e-07	-1.93339e-08	-3.07820e-07	6.16352e-07	-5.25902e-08	-1.93339e-08	-5.25902e-08	-6.62119e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 2 -2 0</ijR>
+			<data>-2.50522e-06	1.21612e-14	-4.46843e-15	1.21612e-14	-1.04081e-05	-6.72206e-07	-4.46843e-15	-6.72206e-07	-1.71393e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 2 -2 0</ijR>
+			<data>-3.33268e-06	-1.38236e-06	1.34987e-06	-1.38236e-06	-6.22038e-06	-4.73707e-07	1.34987e-06	-4.73707e-07	-7.55695e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 2 -2 0</ijR>
+			<data>-3.33268e-06	1.38236e-06	-1.34987e-06	1.38236e-06	-6.22037e-06	-4.73707e-07	-1.34987e-06	-4.73707e-07	-7.55695e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 2 -2 0</ijR>
+			<data>-2.50504e-06	1.44939e-13	9.22700e-15	1.44939e-13	-1.04073e-05	-6.72144e-07	9.22700e-15	-6.72144e-07	-1.71387e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 2 -1 0</ijR>
+			<data>-6.60718e-06	1.16301e-06	-3.17711e-06	1.16301e-06	-1.04185e-04	2.22628e-06	-3.17711e-06	2.22628e-06	-6.22119e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 2 -1 0</ijR>
+			<data>-3.20727e-06	1.81743e-06	4.90018e-07	1.81743e-06	-7.43834e-06	8.24764e-07	4.90018e-07	8.24764e-07	-5.18635e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 2 -1 0</ijR>
+			<data>-8.97196e-06	-1.84560e-05	5.70302e-07	-1.84560e-05	-1.90643e-04	6.29886e-06	5.70302e-07	6.29886e-06	-7.61449e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 2 -1 0</ijR>
+			<data>-6.60680e-06	1.16284e-06	-3.17727e-06	1.16284e-06	-1.04186e-04	2.22601e-06	-3.17727e-06	2.22601e-06	-6.22083e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 2 0 0</ijR>
+			<data>-2.81361e-06	5.89996e-07	-1.41882e-09	5.89996e-07	-6.37613e-06	5.84724e-07	-1.41882e-09	5.84724e-07	-1.29731e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 2 0 0</ijR>
+			<data>-1.56567e-06	3.66793e-07	1.56574e-07	3.66793e-07	-1.00735e-06	-3.11457e-07	1.56574e-07	-3.11457e-07	-4.28021e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 2 0 0</ijR>
+			<data>-1.24225e-05	1.36183e-05	-6.73761e-07	1.36183e-05	-1.70535e-04	6.59729e-06	-6.73761e-07	6.59729e-06	-1.03470e-05</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 2 0 0</ijR>
+			<data>-2.81340e-06	5.89967e-07	-1.39058e-09	5.89967e-07	-6.37555e-06	5.84679e-07	-1.39058e-09	5.84679e-07	-1.29724e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 2 1 0</ijR>
+			<data>-5.07104e-07	3.07832e-07	1.93435e-08	3.07832e-07	6.16756e-07	-5.26302e-08	1.93435e-08	-5.26302e-08	-6.62126e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 2 1 0</ijR>
+			<data>-1.27754e-06	-4.61293e-07	-8.87119e-07	-4.61293e-07	-1.77305e-05	4.34222e-07	-8.87119e-07	4.34222e-07	-1.57362e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 2 1 0</ijR>
+			<data>-2.63580e-06	-2.03783e-06	-9.10563e-07	-2.03783e-06	-6.78677e-06	5.06873e-09	-9.10563e-07	5.06873e-09	-6.23573e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 2 1 0</ijR>
+			<data>-5.07064e-07	3.07820e-07	1.93339e-08	3.07820e-07	6.16352e-07	-5.25902e-08	1.93339e-08	-5.25902e-08	-6.62119e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 1 2 2 0</ijR>
+			<data>-5.19994e-07	-3.67041e-14	4.64166e-15	-3.67041e-14	2.47751e-07	4.51138e-08	4.64166e-15	4.51138e-08	-5.84375e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>1 2 2 2 0</ijR>
+			<data>-1.12135e-06	3.00848e-14	-2.31735e-15	3.00848e-14	-2.34117e-06	5.50104e-07	-2.31735e-15	5.50104e-07	-1.01645e-06</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 1 2 2 0</ijR>
+			<data>3.84422e-07	-1.33027e-13	2.57564e-16	-1.33027e-13	-1.61104e-06	-2.69662e-08	2.57564e-16	-2.69662e-08	-3.41615e-07</data>
+		</spin_bilinear_term>
+		<spin_bilinear_term>
+			<ijR>2 2 2 2 0</ijR>
+			<data>-5.19934e-07	-1.88336e-14	-1.02748e-14	-1.88336e-14	2.47359e-07	4.50262e-08	-1.02748e-14	4.50262e-08	-5.84357e-07</data>
+		</spin_bilinear_term>
+	</spin_bilinear_list>
+	<description>Exchange parameters generated by TB2J 0.9.9.9
+Generation time: 25/06/26 15:15:42
+ Input from non-collinear Siesta data.
+ working directory: /Users/hexu/projects/TB2J_SIESTA_TUTORIAL/CrI3_SIESTA_split_SOC/DFT
+ fdf_fname: siesta.fdf.
+Warning: The DMI component parallel to the spin orientation, the Jani which has the component of that orientation should be disregarded
+ e.g. if the spins are along z, the xz, yz, zz, zx, zy components and the z component of DMI.
+ If you need these component, try to do three calculations with spin along x, y, z,  or use structure with z rotated to x, y and z. And then use TB2J_merge.py to get the full set of parameters.
+
+</description>
+</System_definition>

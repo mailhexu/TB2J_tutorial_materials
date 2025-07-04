@@ -1,0 +1,24 @@
+material:num-materials = 2
+#---------------------------------------------------
+# Material 1 
+#---------------------------------------------------
+material[1]:material-name=Cr
+material[1]:damping-constant=1.0
+material[1]:atomic-spin-moment=3.568774724758168 !muB
+material[1]:uniaxial-anisotropy-constant=0.0
+material[1]:material-element=Cr
+material[1]:initial-spin-direction = 2.2276897203858373e-11,0.9999999999980752,-1.9620933201827733e-06
+material[1]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 2 
+#---------------------------------------------------
+material[2]:material-name=Cr
+material[2]:damping-constant=1.0
+material[2]:atomic-spin-moment=3.5687661718965873 !muB
+material[2]:uniaxial-anisotropy-constant=0.0
+material[2]:material-element=Cr
+material[2]:initial-spin-direction = -2.150279561713273e-11,0.9999999999980757,-1.961814737155551e-06
+material[2]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+# Interactions

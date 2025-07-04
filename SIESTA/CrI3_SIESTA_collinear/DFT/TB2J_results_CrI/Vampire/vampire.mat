@@ -1,0 +1,90 @@
+material:num-materials = 8
+#---------------------------------------------------
+# Material 1 
+#---------------------------------------------------
+material[1]:material-name=Cr
+material[1]:damping-constant=1.0
+material[1]:atomic-spin-moment=3.5455762699364666 !muB
+material[1]:uniaxial-anisotropy-constant=0.0
+material[1]:material-element=Cr
+material[1]:initial-spin-direction = 0.0,0.0,1.0
+material[1]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 2 
+#---------------------------------------------------
+material[2]:material-name=Cr
+material[2]:damping-constant=1.0
+material[2]:atomic-spin-moment=3.5455676551049056 !muB
+material[2]:uniaxial-anisotropy-constant=0.0
+material[2]:material-element=Cr
+material[2]:initial-spin-direction = 0.0,0.0,1.0
+material[2]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 3 
+#---------------------------------------------------
+material[3]:material-name=I
+material[3]:damping-constant=1.0
+material[3]:atomic-spin-moment=0.18185792029994063 !muB
+material[3]:uniaxial-anisotropy-constant=0.0
+material[3]:material-element=I
+material[3]:initial-spin-direction = 0.0,0.0,-1.0
+material[3]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 4 
+#---------------------------------------------------
+material[4]:material-name=I
+material[4]:damping-constant=1.0
+material[4]:atomic-spin-moment=0.18185792131862621 !muB
+material[4]:uniaxial-anisotropy-constant=0.0
+material[4]:material-element=I
+material[4]:initial-spin-direction = 0.0,0.0,-1.0
+material[4]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 5 
+#---------------------------------------------------
+material[5]:material-name=I
+material[5]:damping-constant=1.0
+material[5]:atomic-spin-moment=0.18185611927967704 !muB
+material[5]:uniaxial-anisotropy-constant=0.0
+material[5]:material-element=I
+material[5]:initial-spin-direction = 0.0,0.0,-1.0
+material[5]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 6 
+#---------------------------------------------------
+material[6]:material-name=I
+material[6]:damping-constant=1.0
+material[6]:atomic-spin-moment=0.181856119041913 !muB
+material[6]:uniaxial-anisotropy-constant=0.0
+material[6]:material-element=I
+material[6]:initial-spin-direction = 0.0,0.0,-1.0
+material[6]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 7 
+#---------------------------------------------------
+material[7]:material-name=I
+material[7]:damping-constant=1.0
+material[7]:atomic-spin-moment=0.18185792293113145 !muB
+material[7]:uniaxial-anisotropy-constant=0.0
+material[7]:material-element=I
+material[7]:initial-spin-direction = 0.0,0.0,-1.0
+material[7]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+#---------------------------------------------------
+# Material 8 
+#---------------------------------------------------
+material[8]:material-name=I
+material[8]:damping-constant=1.0
+material[8]:atomic-spin-moment=0.18185792242047194 !muB
+material[8]:uniaxial-anisotropy-constant=0.0
+material[8]:material-element=I
+material[8]:initial-spin-direction = 0.0,0.0,-1.0
+material[8]:uniaxial-anisotropy-direction = 0.0 , 0.0, 1.0
+#---------------------------------------------------
+# Interactions
