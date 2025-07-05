@@ -77,6 +77,6 @@ This is an example of running TB2J-SIESTA with spin-orbit coupling (SOC) in SIES
 
 ###    CrI3\_SIESTA\_split\_SOC
 
-    Note: this example does not run with the current official version of SIESTA and TB2J. Do not run it yet. 
-This is an example of running 
+This is an example for running the new TB2J noncollinear spin, in which there is no need to run three DFT calculations and merge the result. Instead it requires only a single DFT calculation. 
+
 
