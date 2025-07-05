@@ -9,7 +9,7 @@
 
 ## Files for running TB2J tutorial
 
-  https://github.com/mailhexu/TB2J\_TUTORIAL
+  https://github.com/mailhexu/TB2J_TUTORIAL
 
 
 
